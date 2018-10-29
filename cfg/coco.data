@@ -1,4 +1,3 @@
 classes= 80
-names = data/coco.names
+names = cfg/coco.names
 eval=coco
-
