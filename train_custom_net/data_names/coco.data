@@ -1,0 +1,5 @@
+classes = 80
+valid  = coco_testdev
+names = ./train_custom_net/backup/data_names/coco.names
+backup = ./train_custom_net/yolov3/backup
+eval=coco

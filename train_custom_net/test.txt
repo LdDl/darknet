@@ -1,0 +1,7 @@
+/home/keep/darknet-lddl/train_custom_net/images/30.jpg
+/home/keep/darknet-lddl/train_custom_net/images/2.jpg
+/home/keep/darknet-lddl/train_custom_net/images/45.jpg
+/home/keep/darknet-lddl/train_custom_net/images/52.jpg
+/home/keep/darknet-lddl/train_custom_net/images/13.jpg
+/home/keep/darknet-lddl/train_custom_net/images/36.jpg
+/home/keep/darknet-lddl/train_custom_net/images/39.jpg

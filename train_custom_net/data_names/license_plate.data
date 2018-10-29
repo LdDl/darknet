@@ -1,0 +1,8 @@
+classes = 2
+valid  = coco_testdev
+names = ./train_custom_net/data_names/license_plate.names
+backup = ./train_custom_net/yolov3-tiny/backup
+train = ./train_custom_net/data_names/license_plate_train.txt
+test = ./train_custom_net/data_names/license_plate_test.txt
+#labels = ./train_custom_net/data_names/license_plate.names
+eval=coco
