@@ -25,4 +25,5 @@ Icon?
 Thumbs.db
 *.swp
 train_custom_net/darknet53.conv.74
+train_custom_net/yolov3-tiny.conv.15
 !prediction_github.jpg

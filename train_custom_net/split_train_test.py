@@ -5,6 +5,7 @@ import os
 current_dir = os.path.dirname(os.path.abspath(__file__))
 print("Current dir:", current_dir)
 
+# Rewrite current dir (if not needed, just comment line below)
 current_dir = '/home/keep/darknet-lddl/train_custom_net/images/'
 
 # Percentage of images to be used for the test set
