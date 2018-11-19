@@ -129,6 +129,7 @@ clean:
 
 install:
 	cp libdarknet.a $(PREFIXINSTALL)/lib
+	cp libdarknet.so $(PREFIXINSTALL)/lib
 	cp include/darknet.h $(PREFIXINSTALL)/include
 	cp libdarknet.a $(PREFIXGLOBALINSTALL)/lib
 	cp include/darknet.h $(PREFIXGLOBALINSTALL)/include
@@ -137,6 +138,8 @@ install:
 
 uninstall:
 	rm -f $(PREFIXINSTALL)/lib/libdarknet.a
+	rm -f $(PREFIXINSTALL)/lib/libdarknet.so
 	rm -f $(PREFIXINSTALL)/include/darknet.h
 	rm -f $(PREFIXGLOBALINSTALL)/lib/libdarknet.a
+	rm -f $(PREFIXGLOBALINSTALL)/lib/libdarknet.so
 	rm -f $(PREFIXGLOBALINSTALL)/include/darknet.h
