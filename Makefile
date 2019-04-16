@@ -133,6 +133,7 @@ install:
 	cp include/darknet.h $(PREFIXINSTALL)/include
 	cp libdarknet.a $(PREFIXGLOBALINSTALL)/lib
 	cp include/darknet.h $(PREFIXGLOBALINSTALL)/include
+	sudo ldconfig
 
 .PHONY: uninstall
 
