@@ -28,3 +28,6 @@ train_custom_net/yolov3-tiny.conv.15
 trained_nets/yolov3/yolov3.weights
 trained_nets/yolov3_tiny/yolov3-tiny.weights
 !prediction_github.jpg
+/backup
+/backup_ocr
+/data/data_ocr
